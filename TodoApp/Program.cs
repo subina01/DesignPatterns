@@ -6,6 +6,8 @@
         {
             SingletonImplementation Todo = SingletonImplementation.Instance;
 
+            TaskFactory factory = new TaskFactory();
+
             while (true)
             {
                 Console.WriteLine("TO DO APP");
@@ -19,9 +21,16 @@
                 switch (choice) {
 
                     case "1":
-                        Console.Write("Enter task description: ");
-                        string task = Console.ReadLine();
-                        Todo.AddTask(task);
+
+                        Console.Write("Enter task type: ");
+                        string type = Console.ReadLine();
+                        TaskType task = factory.CreateTask(type);
+
+
+                        if (task != null)
+                        {
+                            Todo.AddTask(task);
+                        }
                         break;
 
 

@@ -10,21 +10,22 @@ namespace TodoApp
     {
         private static readonly SingletonImplementation instance = new SingletonImplementation();
 
-        private readonly List<string> tasks = new List<string>();
+        private readonly List<TaskType> tasks = new List<TaskType>();
 
         private SingletonImplementation() {
         
-            tasks = new List<string>();
+            tasks = new List<TaskType>();
         
         }
 
         public static SingletonImplementation Instance { get { return instance; } }
 
-        public void AddTask(string task) {
-        tasks.Add(task);
+        public void AddTask(TaskType task)
+        {
+            tasks.Add(task);
             Console.WriteLine("Task Added!");
-        
         }
+
 
 
         public void DisplayTask()
@@ -36,7 +37,8 @@ namespace TodoApp
             else {
                 Console.WriteLine("To do List");
                 for (int i = 0; i < tasks.Count; i++) {
-                Console.WriteLine($"{i +1}. {tasks[i]}");
+                Console.WriteLine($"{i +1}. {tasks[i]} {tasks[i].GetTaskType()} ");
+                
                 
                 }
             

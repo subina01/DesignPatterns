@@ -1,0 +1,14 @@
+C:\Users\subia\source\repos\BuilderDemo\bin\Debug\net8.0\BuilderDemo.exe
+C:\Users\subia\source\repos\BuilderDemo\bin\Debug\net8.0\BuilderDemo.deps.json
+C:\Users\subia\source\repos\BuilderDemo\bin\Debug\net8.0\BuilderDemo.runtimeconfig.json
+C:\Users\subia\source\repos\BuilderDemo\bin\Debug\net8.0\BuilderDemo.dll
+C:\Users\subia\source\repos\BuilderDemo\bin\Debug\net8.0\BuilderDemo.pdb
+C:\Users\subia\source\repos\BuilderDemo\obj\Debug\net8.0\BuilderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subia\source\repos\BuilderDemo\obj\Debug\net8.0\BuilderDemo.AssemblyInfoInputs.cache
+C:\Users\subia\source\repos\BuilderDemo\obj\Debug\net8.0\BuilderDemo.AssemblyInfo.cs
+C:\Users\subia\source\repos\BuilderDemo\obj\Debug\net8.0\BuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\subia\source\repos\BuilderDemo\obj\Debug\net8.0\BuilderDemo.dll
+C:\Users\subia\source\repos\BuilderDemo\obj\Debug\net8.0\refint\BuilderDemo.dll
+C:\Users\subia\source\repos\BuilderDemo\obj\Debug\net8.0\BuilderDemo.pdb
+C:\Users\subia\source\repos\BuilderDemo\obj\Debug\net8.0\BuilderDemo.genruntimeconfig.cache
+C:\Users\subia\source\repos\BuilderDemo\obj\Debug\net8.0\ref\BuilderDemo.dll
