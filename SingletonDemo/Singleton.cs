@@ -8,7 +8,7 @@ namespace SingletonDemo
 {
 
 
-    public sealed class Singleton // should be sealed otherwise violates the principle of sigleton design pattern incase nested derive class is created
+    public sealed class Singleton // should be sealed otherwise violates the principle of singleton design pattern incase nested derive class is created
     {
         private  int counter = 0;
 
