@@ -1,0 +1,15 @@
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\bin\Debug\net8.0\AdapterDemo.exe
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\bin\Debug\net8.0\AdapterDemo.deps.json
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\bin\Debug\net8.0\AdapterDemo.runtimeconfig.json
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\bin\Debug\net8.0\AdapterDemo.dll
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\bin\Debug\net8.0\AdapterDemo.pdb
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\obj\Debug\net8.0\AdapterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\obj\Debug\net8.0\AdapterDemo.AssemblyInfoInputs.cache
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\obj\Debug\net8.0\AdapterDemo.AssemblyInfo.cs
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\obj\Debug\net8.0\AdapterDemo.csproj.CoreCompileInputs.cache
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\obj\Debug\net8.0\AdapterDemo.sourcelink.json
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\obj\Debug\net8.0\AdapterDemo.dll
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\obj\Debug\net8.0\refint\AdapterDemo.dll
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\obj\Debug\net8.0\AdapterDemo.pdb
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\obj\Debug\net8.0\AdapterDemo.genruntimeconfig.cache
+C:\Users\subia\OneDrive\Desktop\DPatterns\AdapterDemo\obj\Debug\net8.0\ref\AdapterDemo.dll
