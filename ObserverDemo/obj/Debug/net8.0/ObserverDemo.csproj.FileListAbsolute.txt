@@ -1,0 +1,14 @@
+C:\Users\subia\source\repos\ObserverDemo\bin\Debug\net8.0\ObserverDemo.exe
+C:\Users\subia\source\repos\ObserverDemo\bin\Debug\net8.0\ObserverDemo.deps.json
+C:\Users\subia\source\repos\ObserverDemo\bin\Debug\net8.0\ObserverDemo.runtimeconfig.json
+C:\Users\subia\source\repos\ObserverDemo\bin\Debug\net8.0\ObserverDemo.dll
+C:\Users\subia\source\repos\ObserverDemo\bin\Debug\net8.0\ObserverDemo.pdb
+C:\Users\subia\source\repos\ObserverDemo\obj\Debug\net8.0\ObserverDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subia\source\repos\ObserverDemo\obj\Debug\net8.0\ObserverDemo.AssemblyInfoInputs.cache
+C:\Users\subia\source\repos\ObserverDemo\obj\Debug\net8.0\ObserverDemo.AssemblyInfo.cs
+C:\Users\subia\source\repos\ObserverDemo\obj\Debug\net8.0\ObserverDemo.csproj.CoreCompileInputs.cache
+C:\Users\subia\source\repos\ObserverDemo\obj\Debug\net8.0\ObserverDemo.dll
+C:\Users\subia\source\repos\ObserverDemo\obj\Debug\net8.0\refint\ObserverDemo.dll
+C:\Users\subia\source\repos\ObserverDemo\obj\Debug\net8.0\ObserverDemo.pdb
+C:\Users\subia\source\repos\ObserverDemo\obj\Debug\net8.0\ObserverDemo.genruntimeconfig.cache
+C:\Users\subia\source\repos\ObserverDemo\obj\Debug\net8.0\ref\ObserverDemo.dll
