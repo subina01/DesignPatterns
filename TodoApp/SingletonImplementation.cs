@@ -21,7 +21,7 @@ namespace TodoApp
             Console.WriteLine($"count :{count}");
         }
         public static SingletonImplementation Instance { 
-            get { lock (lockObject)
+            get { lock (lockObject)//but not really necessary since this code is already thread safe due to static and eager initialization
                 {
                     return instance;
                 }
