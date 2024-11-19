@@ -1,0 +1,15 @@
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\obj\Debug\net8.0\FacadeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\obj\Debug\net8.0\FacadeDemo.AssemblyInfoInputs.cache
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\obj\Debug\net8.0\FacadeDemo.AssemblyInfo.cs
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\obj\Debug\net8.0\FacadeDemo.csproj.CoreCompileInputs.cache
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\obj\Debug\net8.0\FacadeDemo.sourcelink.json
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\bin\Debug\net8.0\FacadeDemo.exe
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\bin\Debug\net8.0\FacadeDemo.deps.json
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\bin\Debug\net8.0\FacadeDemo.runtimeconfig.json
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\bin\Debug\net8.0\FacadeDemo.dll
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\bin\Debug\net8.0\FacadeDemo.pdb
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\obj\Debug\net8.0\FacadeDemo.dll
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\obj\Debug\net8.0\refint\FacadeDemo.dll
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\obj\Debug\net8.0\FacadeDemo.pdb
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\obj\Debug\net8.0\FacadeDemo.genruntimeconfig.cache
+C:\Users\subia\OneDrive\Desktop\DPatterns\FacadeDemo\obj\Debug\net8.0\ref\FacadeDemo.dll
