@@ -7,6 +7,7 @@ namespace TodoApp
         static void Main(string[] args)
         {
             SingletonImplementation Todo = SingletonImplementation.Instance;
+            SingletonImplementation Todo1 = SingletonImplementation.Instance;
             TaskFactory factory = new TaskFactory();
             while (true)
             {
@@ -25,6 +26,7 @@ namespace TodoApp
                             if (task != null)
                             {
                                 Todo.AddTask(task);
+                                Todo1.AddTask(task);
                             }
                             else
                             {
@@ -35,6 +37,7 @@ namespace TodoApp
 
                     case "2":
                         Todo.DisplayTask();
+                        Todo1.DisplayTask();
                         break;
                     case "3":
                         Console.WriteLine("Exiting...");

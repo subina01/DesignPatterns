@@ -12,6 +12,8 @@ namespace TodoApp
         public static int count = 0;
         private static readonly SingletonImplementation instance = new SingletonImplementation();
         private readonly List<ITaskType> tasks = new List<ITaskType>();
+       private static readonly object lockObject = new object();
+
         private SingletonImplementation()
         {
             count++;
@@ -19,8 +21,10 @@ namespace TodoApp
             Console.WriteLine($"count :{count}");
         }
         public static SingletonImplementation Instance { 
-            get { 
-                return instance;
+            get { lock (lockObject)
+                {
+                    return instance;
+                }
             } 
         }
         public void AddTask(ITaskType task)
