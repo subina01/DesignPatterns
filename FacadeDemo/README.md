@@ -1,7 +1,7 @@
 # Structural Design Pattern - Implementation
 
 - Structural Design pattern is a pattern which manages the structure of Objects and Classes in order to increase the flexibility and reusability of classes.
-- 
+  
 ## Facade Design Pattern
 
 - A **Structural Pattern** Where multiple complex subsystems functionality made accessible through simple Interface. This pattern hides the system complexity from the user and gives easy to use interface to the user.
@@ -17,7 +17,7 @@
 - We create a *BankFacade* Class Which hides the complexity of the complex subsystem classes.
 - providing a single easy to use Interface. 
 - The client program access the subsystem using that interface.
-- 
+  
 ### Expected Output
 
 -Loan Application Processing
